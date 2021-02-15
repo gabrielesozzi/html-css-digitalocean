@@ -1,0 +1,43 @@
+.navbar {
+  margin-bottom: 0;
+  border: none;
+}
+
+.navbar-brand img {
+  width: 150px;
+}
+
+.my_btn {
+  border: 1px solid #0060FF;
+  background-color: #FFF;
+  border-radius: 5px;
+  margin-top: 8px;
+  color: #0060FF;
+}
+
+.navbar-default {
+    background-color: #FFF;
+    border-color: #e7e7e7;
+    background-image: none;
+    border-radius: 0;
+}
+
+.container-fluid {
+  background-image: url("../img/bg-sea.svg");
+  height: 600px;
+}
+
+
+/* Utility */
+
+.bg_grey {
+  background-color: #F3F5F9;
+}
+
+.centered {
+  text-align: center;
+}
+
+.upper {
+  text-transform: uppercase;
+}
