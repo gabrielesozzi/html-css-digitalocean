@@ -1,10 +1,13 @@
-.navbar {
-  margin-bottom: 0;
-  border: none;
+.navbar-brand {
+  padding: 10px 15px;
 }
 
 .navbar-brand img {
   width: 150px;
+}
+
+.left_side {
+  margin-left: 12%;
 }
 
 .my_btn {
@@ -27,11 +30,74 @@
   height: 600px;
 }
 
+.jumbo {
+  padding-top: 15%;
+}
+
+#registration-form {
+  margin-top: 30px;
+}
+
+.list{
+  border-left: 2px solid grey;
+}
+
+.designed_for ul li {
+  display: inline-block;
+  padding: 5px;
+  border: 1px solid blue;
+  border-radius: 100%;
+}
+
+#special {
+  background-color: blue;
+}
+
+.world {
+  background-image: url(../img/bg-map.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  color: #FFF;
+}
+
+.world ul li {
+  display: inline-block;
+  padding: 0 15px;
+}
+
+.dev_team ul li {
+  display: inline-block;
+  padding: 5px;
+  border: 1px solid blue;
+  border-radius: 100%;
+}
+
+.get_started {
+  background-color: #0034AE;
+}
+
+.made_info ul .social {
+  display: inline-block;
+}
+
+.made_info ul li {
+  list-style: none;
+}
 
 /* Utility */
 
 .bg_grey {
   background-color: #F3F5F9;
+}
+
+.bg_white {
+  background-color: #FFF;
+}
+
+.bg_darkblue {
+  background-color: #031B4E;
 }
 
 .centered {
