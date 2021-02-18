@@ -327,6 +327,11 @@ ul {
     margin-left: 10%;
   }
 
+  #registration-form {
+    width: 55%;
+  }
+}
+@media all and (max-width: 991px) {
   .second_list {
     margin-top: 40px;
   }
